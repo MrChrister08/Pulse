@@ -1,0 +1,49 @@
+## 🎨 Pulse Social Media Mockups
+
+### ✅ Logo Idea:
+- **Name:** Pulse
+- **Style:** Clean, modern, and dynamic.
+- **Icon:** A stylized pulse wave (heartbeat line) integrated with a play button or speech bubble.
+- **Colors:** Deep purple and electric blue gradients with soft neon accents.
+- **Font:** Rounded sans-serif, bold yet approachable.
+- **Example Concept:**
+  - Logo: A horizontal pulse line that peaks into a play button, with "Pulse" written beside or below in bold text.
+
+---
+
+### ✅ Sample UI Flow:
+
+1. **Home Feed (Pulse Feed):**
+   - Tabs at the top: "For You", "Trending", "Hubs", "Following".
+   - Mixed feed showing Snips, Pulse Posts, Full Videos, and Polls.
+   - Mood Filter button to customize feed vibe.
+
+2. **Post Creation:**
+   - Big "+" button at the center bottom.
+   - Options: Snip, Full Video, Pulse Post, Poll, Audio, Photo.
+   - Easy toggle to cross-post content types (e.g., add a poll to a Snip).
+
+3. **Profile Page:**
+   - Animated banner and video profile picture.
+   - Tabs for: "All Posts", "Snips", "Videos", "Echoes" (reposts), and "Glow Badges".
+   - Pinned Posts and Status Indicator.
+
+4. **Pulse Chains:**
+   - Any post can be replied to with any format.
+   - Chains display like a thread, allowing seamless navigation between video, text, polls, etc.
+
+5. **Live Streaming (Pulse Live):**
+   - Swipe into live content from the homepage.
+   - Reactions and Pulse Points tipping overlay.
+
+---
+
+### ✅ Tagline/Slogan Ideas:
+1. "Where Trends Pulse and Voices Echo."
+2. "Feel the Pulse. Join the Wave."
+3. "Your World. In Every Beat."
+4. "One Pulse. Infinite Vibes."
+5. "Post It. Snip It. Live It."
+
+---
+7
