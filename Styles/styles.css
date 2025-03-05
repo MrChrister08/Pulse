@@ -40,14 +40,16 @@ body {
     padding: 10px 15px;
     border-radius: 5px;
     display: block;
-    transition: background 0.3s;
+    transition: 0.3s;
 }
 
 .nav-item a:hover {
     background: rgb(255, 255, 255, 0.2);
     border-radius: 5px;
+    color: blueviolet;
 }
 
 .nav-item a:active {
-   
+    color: blueviolet;
+    transition: 0.3s;
 }
